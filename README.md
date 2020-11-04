@@ -1,6 +1,6 @@
 # 05_Parallel_implementation_of_matrix_inversion
 
-Постановка задачи: Параллельная реализация обращение матрицы A (m×n) (размер матрицы динамический)
+<b>Formulation of the issue:</b> Parallel implementation of matrix inversion A (m × n) (matrix size is dynamic).
 
 <table>
   <tr>
