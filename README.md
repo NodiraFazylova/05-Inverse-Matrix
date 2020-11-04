@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td>
-      <b>Название файла</b>
+      <b>File name</b>
     </td>
     <td>
-      <b>Содержание файла</b>
+      <b>File content</b>
     </td>
   </tr>
   <tr>
@@ -16,7 +16,7 @@
       <i>main.cpp</i>
     </td>
     <td>
-      Файл с параллельным вычислением основного алгоритма + тестирование.
+      File with parallel computation of the main algorithm + testing.
     </td>
   </tr>
   <tr>
@@ -24,9 +24,17 @@
       <i>task.h</i>
     </td>
     <td>
-      Файл с необходимыми библиотеками + инициализация функций, необходимых в main.cpp
+      File with required libraries + initialization of functions required in <i>main.cpp</i>.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <i>task.cpp</i>
+    </td>
+    <td>
+      File with the implementation of functions initialized in <i>task.h</i> and required in <i>main.cpp</i>.
     </td>
   </tr>
  </table>
   
-  Запуск программы: "еще не оформлено"
+  Launching the program: ...
