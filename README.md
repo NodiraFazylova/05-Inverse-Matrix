@@ -16,7 +16,7 @@
       <i>main.cpp</i>
     </td>
     <td>
-      File with parallel computation of the main algorithm + testing.
+      Parallel computation of the main algorithm + testing.
     </td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@
       <i>task.h</i>
     </td>
     <td>
-      File with required libraries + initialization of functions required in <i>main.cpp</i>.
+      Required libraries + initialization of functions required in <i>main.cpp</i>.
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
       <i>task.cpp</i>
     </td>
     <td>
-      File with the implementation of functions initialized in <i>task.h</i> and required in <i>main.cpp</i>.
+      The implementation of functions initialized in <i>task.h</i> and required in <i>main.cpp</i>.
     </td>
   </tr>
  </table>
