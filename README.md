@@ -19,22 +19,5 @@
       Parallel computation of the main algorithm + testing.
     </td>
   </tr>
-  <tr>
-    <td>
-      <i>task.h</i>
-    </td>
-    <td>
-      Required libraries + initialization of functions required in <i>main.cpp</i>.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <i>task.cpp</i>
-    </td>
-    <td>
-      The implementation of functions initialized in <i>task.h</i> and required in <i>main.cpp</i>.
-    </td>
-  </tr>
  </table>
   
-  Launching the program: ...
